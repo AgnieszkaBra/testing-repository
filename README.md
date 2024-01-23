@@ -1,3 +1,4 @@
 # testing-repository 
 
-plik testowy do cwiczeń
+plik testowy do cwiczeń, kolejne podejście
+
